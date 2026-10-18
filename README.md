@@ -9,7 +9,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Learning+Python+%26+C;Exploring+Web+Development;On+the+journey+to+AI%2FML;Turning+ideas+into+projects)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=poorushpalg-pixel&color=00f7ff&style=flat-square&label=PROFILE+VIEWS)
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile-Developer-00F7FF?style=flat-square&logo=github&logoColor=white" alt="Developer Profile"/>
+</p>
 
 </div>
 
